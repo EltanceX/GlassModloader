@@ -1,0 +1,839 @@
+<Project Guid="9e9a67f8-79df-4d05-8cfa-61bd8095661e" Name="GameProject" Version="2.4">
+  <Subsystems>
+    <Values Name="TimeOfDay">
+      <Value Name="TimeOfDayOffset" Type="double" Value="0" />
+    </Values>
+    <Values Name="PlayerStats">
+      <Values Name="Stats">
+        <Values Name="1">
+          <Value Name="DistanceTravelled" Type="double" Value="96.80035472727468" />
+          <Value Name="DistanceWalked" Type="double" Value="25.07057868033735" />
+          <Value Name="DistanceFallen" Type="double" Value="71.72977604693733" />
+          <Value Name="DistanceClimbed" Type="double" Value="0" />
+          <Value Name="DistanceFlown" Type="double" Value="0" />
+          <Value Name="DistanceSwam" Type="double" Value="0" />
+          <Value Name="DistanceRidden" Type="double" Value="0" />
+          <Value Name="LowestAltitude" Type="double" Value="65" />
+          <Value Name="HighestAltitude" Type="double" Value="68.05714416503906" />
+          <Value Name="DeepestDive" Type="double" Value="0" />
+          <Value Name="Jumps" Type="long" Value="21" />
+          <Value Name="BlocksDug" Type="long" Value="1" />
+          <Value Name="BlocksPlaced" Type="long" Value="1" />
+          <Value Name="BlocksInteracted" Type="long" Value="0" />
+          <Value Name="PlayerKills" Type="long" Value="0" />
+          <Value Name="LandCreatureKills" Type="long" Value="0" />
+          <Value Name="WaterCreatureKills" Type="long" Value="0" />
+          <Value Name="AirCreatureKills" Type="long" Value="0" />
+          <Value Name="MeleeAttacks" Type="long" Value="0" />
+          <Value Name="MeleeHits" Type="long" Value="0" />
+          <Value Name="RangedAttacks" Type="long" Value="0" />
+          <Value Name="RangedHits" Type="long" Value="0" />
+          <Value Name="HitsReceived" Type="long" Value="0" />
+          <Value Name="StruckByLightning" Type="long" Value="0" />
+          <Value Name="TotalHealthLost" Type="double" Value="0" />
+          <Value Name="FoodItemsEaten" Type="long" Value="0" />
+          <Value Name="TimesWasSick" Type="long" Value="0" />
+          <Value Name="TimesHadFlu" Type="long" Value="0" />
+          <Value Name="TimesPuked" Type="long" Value="0" />
+          <Value Name="TimesWentToSleep" Type="long" Value="0" />
+          <Value Name="TimeSlept" Type="double" Value="0" />
+          <Value Name="ItemsCrafted" Type="long" Value="0" />
+          <Value Name="FurnitureItemsMade" Type="long" Value="0" />
+          <Value Name="EasiestModeUsed" Type="Game.GameMode" Value="Survival" />
+          <Value Name="HighestLevel" Type="float" Value="1" />
+          <Value Name="DeathRecordsString" Type="string" Value="" />
+        </Values>
+      </Values>
+    </Values>
+    <Values Name="Players">
+      <Value Name="NextPlayerIndex" Type="int" Value="2" />
+      <Value Name="GlobalSpawnPosition" Type="Vector3" Value="100,65,-111.11872" />
+      <Values Name="Players">
+        <Values Name="1">
+          <Value Name="SpawnPosition" Type="Vector3" Value="98.5,67.01,-113.5" />
+          <Value Name="FirstSpawnTime" Type="double" Value="0.00011049999739043415" />
+          <Value Name="LastSpawnTime" Type="double" Value="0.00011049999739043415" />
+          <Value Name="SpawnsCount" Type="int" Value="1" />
+          <Value Name="Name" Type="string" Value="Zachary" />
+          <Value Name="PlayerClass" Type="Game.PlayerClass" Value="Male" />
+          <Value Name="Level" Type="float" Value="1" />
+          <Value Name="CharacterSkinName" Type="string" Value="$Male4" />
+          <Value Name="InputDevice" Type="Game.WidgetInputDevice" Value="None" />
+        </Values>
+      </Values>
+    </Values>
+    <Values Name="TruthTableCircuitBlockBehavior">
+      <Values Name="Blocks" />
+      <Values Name="Items" />
+    </Values>
+    <Values Name="Spawn">
+      <Values Name="Chunks">
+        <Values Name="4,-9">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="41.00334991008276" />
+        </Values>
+        <Values Name="4,-8">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="41.00334991008276" />
+        </Values>
+        <Values Name="5,-9">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="41.00334991008276" />
+        </Values>
+        <Values Name="5,-8">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="41.00334991008276" />
+        </Values>
+        <Values Name="5,-7">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="16.000782803690527" />
+        </Values>
+        <Values Name="6,-9">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="36.00253560586134" />
+        </Values>
+        <Values Name="6,-8">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="36.00253560586134" />
+        </Values>
+        <Values Name="6,-7">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="21.000998303003144" />
+        </Values>
+        <Values Name="7,-9">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="26.001808001485188" />
+        </Values>
+        <Values Name="7,-8">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="26.001808001485188" />
+        </Values>
+        <Values Name="7,-7">
+          <Value Name="IsSpawned" Type="bool" Value="True" />
+          <Value Name="LastVisitedTime" Type="double" Value="21.000998303003144" />
+        </Values>
+      </Values>
+    </Values>
+    <Values Name="Pickables">
+      <Values Name="Pickables" />
+    </Values>
+    <Values Name="MemoryBankBlockBehavior">
+      <Values Name="Blocks" />
+      <Values Name="Items" />
+    </Values>
+    <Values Name="ExplosivesBlockBehavior">
+      <Values Name="Explosives" />
+    </Values>
+    <Values Name="WoodBlockBehavior">
+      <Value Name="LeavesToCheck" Type="string" Value="" />
+    </Values>
+    <Values Name="Weather">
+      <Value Name="WeatherStartTime" Type="double" Value="311.31904970898177" />
+      <Value Name="WeatherEndTime" Type="double" Value="583.9078558613255" />
+      <Value Name="WeatherRampTime" Type="float" Value="14.057454" />
+      <Value Name="WeatherIntensity" Type="float" Value="0" />
+      <Value Name="LightningIntensity" Type="float" Value="0.47450662" />
+      <Value Name="FogStartTime" Type="double" Value="1415.91185366406" />
+      <Value Name="FogEndTime" Type="double" Value="1830.0277594257786" />
+      <Value Name="FogRampTime" Type="float" Value="25.652124" />
+      <Value Name="FogIntensity" Type="float" Value="0" />
+      <Value Name="FogProgress" Type="float" Value="0" />
+    </Values>
+    <Values Name="SignBlockBehavior">
+      <Values Name="Texts" />
+    </Values>
+    <Values Name="Projectiles">
+      <Values Name="Projectiles" />
+    </Values>
+    <Values Name="MovingBlocks">
+      <Values Name="MovingBlockSets" />
+    </Values>
+    <Values Name="GameInfo">
+      <Value Name="WorldName" Type="string" Value="Dianneabe" />
+      <Value Name="OriginalSerializationVersion" Type="string" Value="2.4" />
+      <Value Name="GameMode" Type="Game.GameMode" Value="Survival" />
+      <Value Name="EnvironmentBehaviorMode" Type="Game.EnvironmentBehaviorMode" Value="Living" />
+      <Value Name="TimeOfDayMode" Type="Game.TimeOfDayMode" Value="Changing" />
+      <Value Name="AreSeasonsChanging" Type="bool" Value="True" />
+      <Value Name="YearDays" Type="float" Value="24" />
+      <Value Name="TimeOfYear" Type="float" Value="0.1263889" />
+      <Value Name="AreWeatherEffectsEnabled" Type="bool" Value="True" />
+      <Value Name="IsAdventureRespawnAllowed" Type="bool" Value="True" />
+      <Value Name="AreAdventureSurvivalMechanicsEnabled" Type="bool" Value="True" />
+      <Value Name="AreSupernaturalCreaturesEnabled" Type="bool" Value="True" />
+      <Value Name="IsFriendlyFireEnabled" Type="bool" Value="True" />
+      <Value Name="WorldSeedString" Type="string" Value="" />
+      <Value Name="TerrainGenerationMode" Type="Game.TerrainGenerationMode" Value="Continent" />
+      <Value Name="IslandSize" Type="Vector2" Value="400,400" />
+      <Value Name="TerrainLevel" Type="int" Value="64" />
+      <Value Name="ShoreRoughness" Type="float" Value="0.5" />
+      <Value Name="TerrainBlockIndex" Type="int" Value="8" />
+      <Value Name="TerrainOceanBlockIndex" Type="int" Value="18" />
+      <Value Name="TemperatureOffset" Type="float" Value="0" />
+      <Value Name="HumidityOffset" Type="float" Value="0" />
+      <Value Name="SeaLevelOffset" Type="int" Value="0" />
+      <Value Name="BiomeSize" Type="float" Value="1" />
+      <Value Name="StartingPositionMode" Type="Game.StartingPositionMode" Value="Easy" />
+      <Value Name="BlockTextureName" Type="string" Value="" />
+      <Values Name="Palette">
+        <Value Name="Colors" Type="string" Value=";;;;;;;;;;;;;;;" />
+        <Value Name="Names" Type="string" Value=";;;;;;;;;;;;;;;" />
+      </Values>
+      <Value Name="WorldSeed" Type="int" Value="17691" />
+      <Value Name="TotalElapsedGameTime" Type="double" Value="43.998031009861734" />
+    </Values>
+    <Values Name="FurnitureBlockBehavior">
+      <Values Name="FurnitureDesigns" />
+      <Values Name="FurnitureSets" />
+    </Values>
+    <Values Name="Electricity">
+      <Value Name="VoltagesByCell" Type="string" Value="" />
+    </Values>
+    <Values Name="SaplingBlockBehavior">
+      <Values Name="Saplings" />
+    </Values>
+    <Values Name="BlocksScanner">
+      <Value Name="PollChunkCoordinates" Type="Point2" Value="3,-13" />
+      <Value Name="PollPoint" Type="Point2" Value="6,4" />
+      <Value Name="PollPass" Type="int" Value="1" />
+    </Values>
+    <Values Name="RotBlockBehavior">
+      <Value Name="LastRotTime" Type="double" Value="0" />
+      <Value Name="RotStep" Type="int" Value="0" />
+    </Values>
+    <Values Name="MagnetBlockBehavior">
+      <Value Name="Magnets" Type="string" Value="" />
+    </Values>
+  </Subsystems>
+  <Entities>
+    <Entity Id="1" Guid="bef1b918-6418-41c9-a598-95e8ffd39ab3" Name="MalePlayer">
+      <Values Name="Player">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+        <Value Name="PlayerIndex" Type="int" Value="1" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Sleep">
+        <Value Name="SleepStartTime" Type="double" Value="0" />
+        <Value Name="AllowManualWakeUp" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Clothing">
+        <Values Name="Clothes">
+          <Value Name="Head" Type="string" Value="508107" />
+          <Value Name="Torso" Type="string" Value="939770059" />
+          <Value Name="Legs" Type="string" Value="203" />
+          <Value Name="Feet" Type="string" Value="403079371;131275" />
+        </Values>
+      </Values>
+      <Values Name="Flu">
+        <Value Name="FluDuration" Type="float" Value="0" />
+        <Value Name="FluOnset" Type="float" Value="0" />
+      </Values>
+      <Values Name="Inventory">
+        <Values Name="Slots">
+          <Values Name="Slot1">
+            <Value Name="Contents" Type="int" Value="162" />
+            <Value Name="Count" Type="int" Value="1" />
+          </Values>
+        </Values>
+        <Value Name="ActiveSlotIndex" Type="int" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.00011049999739043415" />
+      </Values>
+      <Values Name="Intro">
+        <Value Name="PlayIntro" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Sickness">
+        <Value Name="SicknessDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="87.09981,66,-126.369286" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.6943689,-0,0.7196192" />
+        <Value Name="Velocity" Type="Vector3" Value="7.914768E-08,0,-1.17977095E-08" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Gui">
+        <Value Name="KeyboardHelpMessageShown" Type="bool" Value="False" />
+        <Value Name="GamepadHelpMessageShown" Type="bool" Value="False" />
+      </Values>
+      <Values Name="FurnitureInventory">
+        <Value Name="FurnitureSet" Type="string" Value="" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="CreativeInventory">
+        <Value Name="ActiveSlotIndex" Type="int" Value="0" />
+        <Value Name="CategoryIndex" Type="int" Value="0" />
+        <Value Name="PageIndex" Type="int" Value="0" />
+        <Values Name="Slots" />
+      </Values>
+      <Values Name="CraftingTable">
+        <Values Name="Slots" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="VitalStats">
+        <Value Name="Food" Type="float" Value="0.50865495" />
+        <Value Name="Stamina" Type="float" Value="0.74681026" />
+        <Value Name="Sleep" Type="float" Value="0.9755566" />
+        <Value Name="Temperature" Type="float" Value="13.333546" />
+        <Value Name="Wetness" Type="float" Value="0" />
+        <Values Name="Satiation" />
+      </Values>
+    </Entity>
+    <Entity Id="2" Guid="35fbeb7a-8401-46a2-b3cb-ae5ee449297c" Name="IntroShip">
+      <Values Name="Frame">
+        <Value Name="Position" Type="Vector3" Value="122.80349,64.5,-239.09528" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0.012526919,-0.091614366,0.049914233,0.9944639" />
+      </Values>
+      <Values Name="IntroShip">
+        <Value Name="Heading" Type="float" Value="-0.18453324" />
+      </Values>
+    </Entity>
+    <Entity Id="3" Guid="dd2f737c-30f8-4762-8de3-9ab48559c3ae" Name="Seagull">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="54.081333,77.73559,-95.901405" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.794893,0,0.6067496" />
+        <Value Name="Velocity" Type="Vector3" Value="-3.0878851,4.118954,0.6489089" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="41.00489031011239" />
+      </Values>
+    </Entity>
+    <Entity Id="4" Guid="cdec5d3c-523b-4904-b9ea-e51b51a13345" Name="Bass_Sea">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="133.68263,63.855736,-152.75554" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.3537953,-0,0.935323" />
+        <Value Name="Velocity" Type="Vector3" Value="0.6844348,0.014741813,-0.77515095" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="5" Guid="5ff90ec7-5f83-4e23-aa20-4d4dfd5fdf74" Name="Barracuda">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="102.98698,63.327835,-159.59312" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.49753737,0,0.86744267" />
+        <Value Name="Velocity" Type="Vector3" Value="-1.0467776,-0.22494163,-0.6047308" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="6" Guid="5ff90ec7-5f83-4e23-aa20-4d4dfd5fdf74" Name="Barracuda">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="106.9291,59.642323,-164.64334" />
+        <Value Name="Rotation" Type="Quaternion" Value="0.00028262517,0.9321648,-0.0007277036,0.36203367" />
+        <Value Name="Velocity" Type="Vector3" Value="0.054566853,-0.025213951,-0.04216678" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="7" Guid="ae43396b-e4a6-4ead-aaa5-26c4feb458da" Name="Wildboar">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="100.60164,67,-96.95472" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.7246971,-0,0.68906754" />
+        <Value Name="Velocity" Type="Vector3" Value="4.087779E-07,0,2.8125205E-08" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+    </Entity>
+    <Entity Id="8" Guid="724fa0ab-366d-4917-9202-251f914ebc32" Name="Sparrow">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="87.26462,77.03495,-105.94546" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.29603514,-0,0.95517707" />
+        <Value Name="Velocity" Type="Vector3" Value="0.40278804,0.33933532,-0.44157073" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+    </Entity>
+    <Entity Id="9" Guid="724fa0ab-366d-4917-9202-251f914ebc32" Name="Sparrow">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="89.027824,71.56504,-111.11388" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.384986,0,0.92292243" />
+        <Value Name="Velocity" Type="Vector3" Value="-0.41532823,-1.7291682,-0.4141414" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+    </Entity>
+    <Entity Id="10" Guid="cdec5d3c-523b-4904-b9ea-e51b51a13345" Name="Bass_Sea">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="76.811104,57.337128,-140.58426" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.57569444,0,0.8176649" />
+        <Value Name="Velocity" Type="Vector3" Value="-0.7960586,-0.18186283,-0.28578135" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="11" Guid="dd2f737c-30f8-4762-8de3-9ab48559c3ae" Name="Seagull">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="89.37385,71.59917,-148.06416" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.31152278,0,0.9502387" />
+        <Value Name="Velocity" Type="Vector3" Value="-2.9708009,-0.24593946,-3.4668903" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+    </Entity>
+    <Entity Id="12" Guid="5ff90ec7-5f83-4e23-aa20-4d4dfd5fdf74" Name="Barracuda">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="70.74965,64.07876,-150.12859" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.08542047,-0,0.996345" />
+        <Value Name="Velocity" Type="Vector3" Value="0.23014711,0.010675731,-1.3323586" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="13" Guid="ae43396b-e4a6-4ead-aaa5-26c4feb458da" Name="Wildboar">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="115.577934,64.23866,-90.348854" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0.008296951,0.6552738,0.0071980543,0.7553116" />
+        <Value Name="Velocity" Type="Vector3" Value="-0.2343324,0.0416998,-0.057725556" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="13.001123502559494" />
+      </Values>
+    </Entity>
+    <Entity Id="14" Guid="abf17893-e4d4-4638-943d-50a545761ecc" Name="Piranha">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="129.52493,63.709534,-110.5147" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0.0013214026,0.9932139,0.011339433,0.11574084" />
+        <Value Name="Velocity" Type="Vector3" Value="0.059789155,-0.025213951,0.04118554" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="15" Guid="abf17893-e4d4-4638-943d-50a545761ecc" Name="Piranha">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="128.97217,63.088356,-109.11253" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0.011263673,-0.16289043,-0.0018597052,0.98657817" />
+        <Value Name="Velocity" Type="Vector3" Value="0.06503455,-0.02521385,0.022949329" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="16" Guid="abf17893-e4d4-4638-943d-50a545761ecc" Name="Piranha">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="0.9997642995440401" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="126.56454,64.31006,-110.66978" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0.006940116,-0.79394644,-0.009064415,0.60788053" />
+        <Value Name="Velocity" Type="Vector3" Value="0.046567023,-0.025213974,0.03717279" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="17" Guid="cdec5d3c-523b-4904-b9ea-e51b51a13345" Name="Bass_Sea">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="33.00409410445718" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="42.61412,62.444286,-143.25673" />
+        <Value Name="Rotation" Type="Quaternion" Value="0,0.61498255,0,0.7885407" />
+        <Value Name="Velocity" Type="Vector3" Value="-0.937167,-0.16798992,-0.23539558" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="18" Guid="dd2f737c-30f8-4762-8de3-9ab48559c3ae" Name="Seagull">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="38.837822,72.45893,-110.710945" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.9623493,-0,0.27181616" />
+        <Value Name="Velocity" Type="Vector3" Value="1.8859987,0.81413585,3.3764412" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="41.00489031011239" />
+      </Values>
+    </Entity>
+    <Entity Id="19" Guid="bbc2c9ad-1b8b-4e91-a6b1-12495d1f9089" Name="Ray_Yellow">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="33.00409410445718" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="61.40849,64,-113.18772" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.657431,-0,0.75351477" />
+        <Value Name="Velocity" Type="Vector3" Value="0.87967646,-0.00015029314,-0.12037942" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="20" Guid="dd2f737c-30f8-4762-8de3-9ab48559c3ae" Name="Seagull">
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="99.81808,71.82641,-130.27127" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.95551157,-0,0.2949536" />
+        <Value Name="Velocity" Type="Vector3" Value="1.3563123,0.6190236,3.4351232" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="13.001123502559494" />
+      </Values>
+    </Entity>
+    <Entity Id="21" Guid="c7dfa822-ba6e-4f3f-905c-0241823edf15" Name="Ray_Brown">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="37.004192506254185" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="68.01203,57.310463,-156.50964" />
+        <Value Name="Rotation" Type="Quaternion" Value="0.0010691119,-0.83537614,0.0016247961,0.54967546" />
+        <Value Name="Velocity" Type="Vector3" Value="-0.014163675,-0.13567872,0.062325142" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+    </Entity>
+    <Entity Id="22" Guid="ae43396b-e4a6-4ead-aaa5-26c4feb458da" Name="Wildboar">
+      <Values Name="Creature">
+        <Value Name="ConstantSpawn" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Locomotion">
+        <Value Name="IsCreativeFlyEnabled" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Body">
+        <Value Name="Position" Type="Vector3" Value="99.30746,67,-90.22935" />
+        <Value Name="Rotation" Type="Quaternion" Value="-0,-0.58742684,-0,0.8092773" />
+        <Value Name="Velocity" Type="Vector3" Value="0.6119979,0,-0.18348639" />
+        <Value Name="EmbeddedInIceCounter" Type="int" Value="0" />
+      </Values>
+      <Values Name="Loot">
+        <Value Name="LootDropped" Type="bool" Value="False" />
+      </Values>
+      <Values Name="Health">
+        <Value Name="Health" Type="float" Value="1" />
+        <Value Name="Air" Type="float" Value="1" />
+      </Values>
+      <Values Name="OnFire">
+        <Value Name="FireDuration" Type="float" Value="0" />
+      </Values>
+      <Values Name="Spawn">
+        <Value Name="SpawnTime" Type="double" Value="13.001123502559494" />
+      </Values>
+    </Entity>
+  </Entities>
+</Project>

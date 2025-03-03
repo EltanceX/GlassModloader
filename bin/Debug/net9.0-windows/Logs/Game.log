@@ -1,0 +1,166 @@
+17:45:04.339 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+17:45:04.351 INFO: GLES Vendor: Intel
+17:45:04.351 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+17:45:04.351 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+17:45:05.020 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 260
+17:50:55.971 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+17:50:55.981 INFO: GLES Vendor: Intel
+17:50:55.981 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+17:50:55.981 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+17:50:56.545 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 260
+18:00:05.974 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:00:05.987 INFO: GLES Vendor: Intel
+18:00:05.987 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:00:05.987 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:00:57.042 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 260
+18:01:50.861 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:01:50.880 INFO: GLES Vendor: Intel
+18:01:50.880 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:01:50.880 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:01:51.501 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:07:23.744 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:07:23.762 INFO: GLES Vendor: Intel
+18:07:23.762 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:07:23.762 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:07:24.359 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:07:36.416 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Window is already opened.
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:07:36.417 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Window is already opened.
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:08:19.333 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Window is already opened.
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:08:19.359 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Window is already opened.
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:08:19.359 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Window is already opened.
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:08:28.295 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:08:28.305 INFO: GLES Vendor: Intel
+18:08:28.305 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:08:28.305 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:08:28.969 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:08:33.501 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:08:33.510 INFO: GLES Vendor: Intel
+18:08:33.510 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:08:33.510 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:08:34.098 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:09:40.767 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+18:10:11.268 INFO: GLES Vendor: Intel
+18:10:11.268 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+18:10:11.268 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+18:10:25.231 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:10:25.239 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:10:25.239 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+18:10:25.239 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+20:04:02.469 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+20:04:02.477 INFO: GLES Vendor: Intel
+20:04:02.477 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+20:04:02.477 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+20:04:03.509 ERROR: Unhandled exception.
+Exception has been thrown by the target of an invocation.
+Operation is not supported on this platform. (0x80131539)
+   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at GlassLoader.Glass.Main(String[] args) in C:\Users\EltanceX\source\repos\CallTest\Program.cs:line 262
+20:04:21.723 INFO: OpenGL framebuffer created, R=10 G=10 B=10 A=2, D=24 S=8
+20:04:21.732 INFO: GLES Vendor: Intel
+20:04:21.732 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+20:04:21.732 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+20:04:22.701 INFO: Survivalcraft starting up at 02/22/2025 20:04:22, Version=2.4.10.4, BuildConfiguration=Release, Platform=Android, DeviceModel=Computer, OSVersion=Microsoft Windows NT 10.0.22631.0, Storage.AvailableFreeSpace=35639MB, ApproximateScreenDpi=96.0, ApproxScreenInches=23.6, ScreenResolution=1440,900, ProcessorsCount=20, RAM=8796093022207MB, 64bit=True, ProcessArchitecture=unknown OSArchitecture=unknown
+20:04:22.818 INFO: Downloading MOTD
+20:04:24.501 INFO: Downloaded MOTD
+20:04:24.831 INFO: Downloading MOTD
+20:04:26.245 INFO: Saved settings
+20:04:27.825 INFO: Downloaded MOTD
+20:04:28.049 INFO: Saved settings

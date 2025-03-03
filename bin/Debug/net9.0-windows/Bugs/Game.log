@@ -1,0 +1,68 @@
+23:27:41.144 INFO: GLES Vendor: Intel
+23:27:41.145 INFO: GLES Renderer: Intel(R) RaptorLake-S Mobile Graphics Controller
+23:27:41.145 INFO: GLES Version: 4.6.0 - Build 31.0.101.5186
+23:27:41.607 INFO: Survivalcraft starting up at 02/21/2025 23:27:41, GameVersion=2.4.0.0, BuildConfiguration=Release, Platform=Windows, Storage.AvailableFreeSpace=34038MB, ApproximateScreenDpi=96.0, ApproxScreenInches=23.6, ScreenResolution=1536,960, ProcessorsCount=20, APIVersion=1.80, 64bit=True
+23:27:41.623 INFO: Initializing Mods Manager. Api Version: 1.80
+23:27:41.625 INFO: Program Initialize Success
+23:27:41.702 ERROR: Object reference not set to an instance of an object.
+23:27:41.751 ERROR: Required subtexture Textures/Gui/CandyRufusLogo not found in TextureAtlasManager.
+23:27:41.755 INFO: Language is not specified, and system language (zh-CN) is not supported yet, en-US is loaded instead.
+23:27:41.762 ERROR: Object reference not set to an instance of an object.
+23:27:41.801 ERROR: Object reference not set to an instance of an object.
+23:27:41.808 ERROR: Object reference not set to an instance of an object.
+23:27:41.816 ERROR: Object reference not set to an instance of an object.
+23:27:41.823 ERROR: Object reference not set to an instance of an object.
+23:27:41.831 ERROR: Object reference not set to an instance of an object.
+23:27:41.839 ERROR: Object reference not set to an instance of an object.↓
+23:27:41.840 ERROR: System.NullReferenceException: Object reference not set to an instance of an object.
+   at ModsManager.HasAttribute(XElement element, Func`2 func, XAttribute& xAttributeout) in E:\sc\2.4 Rebuild\1.8-4\survivalcraft-api\Survivalcraft\ModsManager\ModsManager.cs:line 502
+   at Game.CraftingRecipesManager.LoadData(XElement item) in E:\sc\2.4 Rebuild\1.8-4\survivalcraft-api\Survivalcraft\ModsManager\Changes\CraftingRecipesManager.cs:line 47
+23:27:41.847 ERROR: Object reference not set to an instance of an object.
+23:27:41.853 ERROR: Not Found Res [Screens/NagScreen][System.Xml.Linq.XElement]
+23:27:41.861 ERROR: Not Found Res [Screens/MainMenuScreen][System.Xml.Linq.XElement]
+23:27:41.868 ERROR: Not Found Res [Screens/RecipaediaScreen][System.Xml.Linq.XElement]
+23:27:41.876 ERROR: Not Found Res [Screens/BestiaryScreen][System.Xml.Linq.XElement]
+23:27:41.884 ERROR: Not Found Res [Screens/BestiaryDescriptionScreen][System.Xml.Linq.XElement]
+23:27:41.892 ERROR: Not Found Res [Screens/HelpScreen][System.Xml.Linq.XElement]
+23:27:41.900 ERROR: Not Found Res [Screens/HelpTopicScreen][System.Xml.Linq.XElement]
+23:27:41.907 ERROR: Not Found Res [Screens/SettingsScreen][System.Xml.Linq.XElement]
+23:27:41.915 ERROR: Not Found Res [Screens/SettingsPerformanceScreen][System.Xml.Linq.XElement]
+23:27:41.922 ERROR: Not Found Res [Screens/SettingsGraphicsScreen][System.Xml.Linq.XElement]
+23:27:41.930 ERROR: Not Found Res [Screens/SettingsUiScreen][System.Xml.Linq.XElement]
+23:27:41.937 ERROR: Not Found Res [Screens/SettingsCompatibilityScreen][System.Xml.Linq.XElement]
+23:27:41.944 ERROR: Not Found Res [Screens/SettingsAudioScreen][System.Xml.Linq.XElement]
+23:27:41.951 ERROR: Not Found Res [Screens/SettingsControlsScreen][System.Xml.Linq.XElement]
+23:27:41.959 ERROR: Not Found Res [Screens/PlayScreen][System.Xml.Linq.XElement]
+23:27:41.966 ERROR: Not Found Res [Screens/NewWorldScreen][System.Xml.Linq.XElement]
+23:27:41.973 ERROR: Not Found Res [Screens/ModifyWorldScreen][System.Xml.Linq.XElement]
+23:27:41.981 ERROR: Not Found Res [Screens/WorldOptionsScreen][System.Xml.Linq.XElement]
+23:27:41.988 ERROR: Not Found Res [Screens/GameLoadingScreen][System.Xml.Linq.XElement]
+23:27:41.995 ERROR: Not Found Res [Screens/GameScreen][System.Xml.Linq.XElement]
+23:27:42.002 ERROR: Not Found Res [Screens/TrialEndedScreen][System.Xml.Linq.XElement]
+23:27:42.009 ERROR: Not Found Res [Screens/ExternalContentScreen][System.Xml.Linq.XElement]
+23:27:42.017 ERROR: Not Found Res [Screens/CommunityContentScreen][System.Xml.Linq.XElement]
+23:27:42.024 ERROR: Object reference not set to an instance of an object.
+23:27:42.031 ERROR: Not Found Res [Screens/ContentScreen][System.Xml.Linq.XElement]
+23:27:42.038 ERROR: Not Found Res [Screens/ManageContentScreen][System.Xml.Linq.XElement]
+23:27:42.049 ERROR: Not Found Res [Screens/ModsManageContentScreen][System.Xml.Linq.XElement]
+23:27:42.057 ERROR: Not Found Res [Screens/ManageUserScreen][System.Xml.Linq.XElement]
+23:27:42.065 ERROR: Not Found Res [Screens/PlayersScreen][System.Xml.Linq.XElement]
+23:27:42.074 ERROR: Not Found Res [Screens/PlayerScreen][System.Xml.Linq.XElement]
+23:27:42.083 ERROR: Not Found Res [Textures/Blocks][Engine.Graphics.Texture2D]
+23:27:42.091 ERROR: Object reference not set to an instance of an object.
+23:27:45.677 WARNING: Setting "UsePrimaryMemoryBank" could not be saved. Reason: Cannot convert value of type "System.Boolean" to string.
+23:27:45.708 WARNING: Setting "ResolutionMode" could not be saved. Reason: Cannot convert value of type "Game.ResolutionMode" to string.
+23:27:45.737 WARNING: Setting "SkyRenderingMode" could not be saved. Reason: Cannot convert value of type "Game.SkyRenderingMode" to string.
+23:27:45.793 WARNING: Setting "ScreenshotSize" could not be saved. Reason: Cannot convert value of type "Game.ScreenshotSize" to string.
+23:27:45.821 WARNING: Setting "WindowMode" could not be saved. Reason: Cannot convert value of type "Engine.WindowMode" to string.
+23:27:45.847 WARNING: Setting "GuiSize" could not be saved. Reason: Cannot convert value of type "Game.GuiSize" to string.
+23:27:45.874 WARNING: Setting "MoveControlMode" could not be saved. Reason: Cannot convert value of type "Game.MoveControlMode" to string.
+23:27:45.900 WARNING: Setting "LookControlMode" could not be saved. Reason: Cannot convert value of type "Game.LookControlMode" to string.
+23:27:45.930 WARNING: Setting "CommunityContentMode" could not be saved. Reason: Cannot convert value of type "Game.CommunityContentMode" to string.
+23:27:45.958 WARNING: Setting "OriginalCommunityContentMode" could not be saved. Reason: Cannot convert value of type "Game.CommunityContentMode" to string.
+23:27:45.984 WARNING: Setting "ScreenLayout1" could not be saved. Reason: Cannot convert value of type "Game.ScreenLayout" to string.
+23:27:46.014 WARNING: Setting "ScreenLayout2" could not be saved. Reason: Cannot convert value of type "Game.ScreenLayout" to string.
+23:27:46.040 WARNING: Setting "ScreenLayout3" could not be saved. Reason: Cannot convert value of type "Game.ScreenLayout" to string.
+23:27:46.066 WARNING: Setting "ScreenLayout4" could not be saved. Reason: Cannot convert value of type "Game.ScreenLayout" to string.
+23:27:46.074 INFO: Saved settings
+23:27:46.321 INFO: OpenGL0.0 framebuffer created, R=0 G=0 B=0 A=0, D=0 S=0

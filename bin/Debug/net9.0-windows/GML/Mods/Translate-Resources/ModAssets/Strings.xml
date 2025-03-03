@@ -1,0 +1,95 @@
+<Strings>
+
+  <String Name="MoveControlMode.Pad">触摸板</String>
+  <String Name="MoveControlMode.Buttons">按钮</String>
+  <String Name="LookControlMode.Pad">仅触摸板</String>
+  <String Name="LookControlMode.EntireScreen">整个屏幕</String>
+  <String Name="LookControlMode.SplitTouch">分割触摸</String>
+
+  <String Name="GameMode.Creative.Description">在创造模式中，您拥有无限供应的所有物品，并且所有块都可以无限快速地开采。你也是不朽的，可以飞翔。此模式非常适合纯建筑。</String>
+  <String Name="GameMode.Harmless.Description">无害是简单的生存模式。动物不会无端攻击。跌倒的致命性较低。生命恢复非常快。挖掘速度提高了 25%。</String>
+  <String Name="GameMode.Survival.Description">生存模式是默认模式。有危险，但当你死后，你将能够在你最后的睡眠位置重生。如果您觉得这太容易了，请尝试挑战模式。</String>
+  <String Name="GameMode.Challenging.Description">具有挑战性的是高级生存模式。危险的动物会更频繁地生成。温度、饥饿和健康模拟更加困难。你不能在空中放置物块。</String>
+  <String Name="GameMode.Cruel.Description">残酷模式与挑战相同，但您将无法重生。明智地玩，因为如果你死了，你的世界就会丢失！一旦模式设置为残酷，就无法改回去。</String>
+  <String Name="GameMode.Adventure.Description">冒险模式适用于想要创建任务地图并与他人分享的玩家。在这种模式下，你不能没有工具就挖掘，而且生命值不会再生。在创造模式下创建您的任务地图，并在上传前将其更改为 Adventure。</String>
+
+  <String Name="SeaLevelOffset.Description">调整世界的全球海平面。</String>
+  <String Name="TemperatureOffset.Description">调整世界的全局温度。</String>
+  <String Name="HumidityOffset.Description">调整世界的全局湿度。</String>
+
+  <String Name="EnvironmentBehaviorMode.Living.Description">在 Living 模式中，世界是一个充满动物的生机勃勃的地方。植物和草生长，松散材料制成的方块坍塌，脱落的树叶腐烂。积雪堆积在地面上，水体结冰。</String>
+  <String Name="EnvironmentBehaviorMode.Static.Description">在 Static （静态） 模式下，世界没有动物。植物生长、物块崩溃和植物腐烂被禁用。雪不会堆积在地面上，水体也不会结冰。如果您想按照自己的方式塑造世界，这很有用。</String>
+
+  <String Name="TimeOfDayMode.Changing.Description">时间会定期更改。太阳、月亮和星星将在天空中移动。</String>
+  <String Name="TimeOfDayMode.Day.Description">一天中的时间永远是中午。太阳、月亮和星星将在天空中保持静止。</String>
+  <String Name="TimeOfDayMode.Night.Description">一天中的时间永远是午夜。太阳、月亮和星星将在天空中保持静止。</String>
+  <String Name="TimeOfDayMode.Sunrise.Description">一天中的时间永远是早上。太阳、月亮和星星将在天空中保持静止。</String>
+  <String Name="TimeOfDayMode.Sunset.Description">白天的时间永远是晚上。太阳、月亮和星星将在天空中保持静止。</String>
+
+  <String Name="AreSeasonsChanging.False">世界将锁定到所选季节。天气状况不会改变。</String>
+  <String Name="AreSeasonsChanging.True">季节会定期变化。随着季节的推移，天气状况会慢慢变化。</String>
+
+  <String Name="YearDays.Description">调整所有季节循环所需的天数。每个季节将持续此值的四分之一。</String>
+  
+  <String Name="TimeOfYear.Description">调整世界的当前季节。</String>
+
+  <String Name="TerrainGenerationMode.Continent.Name">大陆</String>
+  <String Name="TerrainGenerationMode.Continent.Description">在大陆模式中，环境看起来像现实世界，到处都是森林、平原、沙漠、冰川、湖泊、山脉、丘陵、洞穴等。</String>
+  <String Name="TerrainGenerationMode.Island.Name">岛屿</String>
+  <String Name="TerrainGenerationMode.Island.Description">在 岛屿 模式中，地形仅限于一个小岛，但其他方面看起来类似于 Continent 模式。您还可以调整孤岛大小。</String>
+  <String Name="TerrainGenerationMode.FlatContinent.Name">平坦大陆</String>
+  <String Name="TerrainGenerationMode.FlatContinent.Description">在 平坦 模式下，地形是完全平坦的，为您提供了完全的创作自由。您还可以更改地形级别和填充地形的块类型。</String>
+  <String Name="TerrainGenerationMode.FlatIsland.Name">平坦岛屿</String>
+  <String Name="TerrainGenerationMode.FlatIsland.Description">在 平坦 模式下，地形是完全平坦的，为您提供了完全的创作自由。您还可以更改地形级别和填充地形的块类型。</String>
+
+  <String Name="IslandSize.Description">调整岛屿大小。</String>
+
+  <String Name="BiomeSize.Description">调整生物群系的大小。</String>
+
+  <String Name="FlatTerrainLevel.Description">调整基岩上方地形的标高，仅适用于平坦地形模式。你把它放得越低，地面上的可用空间就越大。你把它放得越高，地下的可用空间就越多。</String>
+  <String Name="FlatTerrainShoreRoughness.Description">调整平坦地形海岸的粗糙度，仅适用于平坦地形模式。0 是完全笔直的海岸。值越高，海岸线越崎岖。</String>
+  <String Name="FlatTerrainMagmaOcean.Description">将海洋变成岩浆之海。</String>
+
+  <String Name="WeatherMode.True">世界将经历周期性的雨雪，这些雨雪将在地面上积累。闪电会击中高大的物体并使其着火。雾偶尔会降低能见度。</String>
+  <String Name="WeatherMode.False">世界上不会有降水、雾或闪电。</String>
+
+  <String Name="AdventureRespawnMode.True">玩家死后将能够在他最后一次出生点或睡觉的地方重生（适合有检查点的长途冒险）。</String>
+  <String Name="AdventureRespawnMode.False">玩家将无法重生，但必须重新开始冒险，并在他死亡时从头开始（适合没有检查点的小型冒险）。</String>
+
+  <String Name="AdventureSurvivalMechanics.True">饥饿、耐力、体温、睡眠剥夺将在冒险模式中模拟。</String>
+  <String Name="AdventureSurvivalMechanics.False">饥饿、耐力、体温、睡眠剥夺将在冒险模式中被禁用。运行状况和伤害仍将进行模拟。</String>
+
+  <String Name="SupernaturalCreatures.True">超自然生物会在世界中生成。</String>
+  <String Name="SupernaturalCreatures.False">超自然生物不会在世界中生成。任何现有的生物都会一直保留，直到消失。</String>
+
+  <String Name="FriendlyFire.True">玩家将能够攻击和伤害其他玩家。</String>
+  <String Name="FriendlyFire.False">玩家将无法攻击和伤害其他玩家。</String>
+
+  <String Name="CharacterSkin.Description">选择要在游戏中使用的角色皮肤。</String>
+  <String Name="BlocksTexture.Description">选择绘制世界时要使用的块纹理。您可以通过使用不同的 blocks 纹理来完全更改世界的外观。</String>
+
+  <String Name="Settings.Compatibility.SinglethreadedTerrainUpdate.Description">启用此选项可强制游戏仅在更新地形时使用单个线程。它会使游戏在多核设备上运行得更慢，但可能会使它在单核设备上运行得更快一些。</String>
+  <String Name="Settings.Compatibility.UseReducedZRange.Description">如果您遇到图形问题，例如玩家附近世界的不可见部分或纹理乱码，请启用此选项。它将剪辑空间 Z 范围从 -1/1 减少到 0/1，因为某些 Android 设备在整个范围内存在深度缓冲和剪辑问题。</String>
+
+  <String Name="ScreenLayout.Single.Name">单人</String>
+  <String Name="ScreenLayout.Single.Description">单人游戏全屏</String>
+  <String Name="ScreenLayout.DoubleVertical.Name">双垂直</String>
+  <String Name="ScreenLayout.DoubleVertical.Description">两个玩家垂直分屏</String>
+  <String Name="ScreenLayout.DoubleHorizontal.Name">双水平</String>
+  <String Name="ScreenLayout.DoubleHorizontal.Description">两名玩家水平分屏</String>
+  <String Name="ScreenLayout.DoubleOpposite.Name">对立双</String>
+  <String Name="ScreenLayout.DoubleOpposite.Description">对立，用于共享触摸设备</String>
+  <String Name="ScreenLayout.TripleVertical.Name">三重垂直</String>
+  <String Name="ScreenLayout.TripleVertical.Description">三名玩家垂直分屏</String>
+  <String Name="ScreenLayout.TripleHorizontal.Name">三重水平</String>
+  <String Name="ScreenLayout.TripleHorizontal.Description">三名玩家横向分屏</String>
+  <String Name="ScreenLayout.TripleEven.Name">三倍等额</String>
+  <String Name="ScreenLayout.TripleEven.Description">三名玩家平分</String>
+  <String Name="ScreenLayout.TripleOpposite.Name">三重相反</String>
+  <String Name="ScreenLayout.TripleOpposite.Description">相反，用于共享触摸设备</String>
+  <String Name="ScreenLayout.Quadruple.Name">四倍</String>
+  <String Name="ScreenLayout.Quadruple.Description">四名玩家平分</String>
+  <String Name="ScreenLayout.QuadrupleOpposite.Name">四重对立</String>
+  <String Name="ScreenLayout.QuadrupleOpposite.Description">相反，用于共享触摸设备</String>
+
+</Strings>

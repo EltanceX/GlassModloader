@@ -1,0 +1,56 @@
+<Screen xmlns="runtime-namespace:Game">
+
+  <PanoramaWidget />
+
+  <StackPanelWidget Direction="Horizontal">
+
+    <CanvasWidget Style="{Widgets/TopBarContents}" >
+      <LabelWidget Name="TopBar.Label" Text="调整设备兼容性" />
+    </CanvasWidget>
+
+    <StackPanelWidget Direction="Vertical" Margin="10, 0">
+
+      <CanvasWidget Size="0, 20" />
+
+      <LabelWidget Font="{Fonts/Pericles18}" Color="255, 255, 255" HorizontalAlignment="Center" TextAnchor="HorizontalCenter" WordWrap="true" Text="仅当遇到游戏问题时，才使用这些设置。" />
+
+      <CanvasWidget Size="0, 20" />
+
+      <CanvasWidget>
+        <BevelledRectangleWidget Style="{Styles/Area}" />
+        <ScrollPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="3, 3">
+          <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+            <UniformSpacingPanelWidget Direction="Horizontal">
+              <LabelWidget Text="单线程地形更新:" Font="{Fonts/Pericles18}" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+              <BevelledButtonWidget Name="SinglethreadedTerrainUpdateButton" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" Margin="20, 0" />
+            </UniformSpacingPanelWidget>
+
+            <CanvasWidget Size="0, 20" />
+
+            <UniformSpacingPanelWidget Direction="Horizontal">
+              <LabelWidget Text="查看游戏日志:" Font="{Fonts/Pericles18}" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+              <BevelledButtonWidget Name="ViewGameLogButton" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" Margin="20, 0" Text="..."/>
+            </UniformSpacingPanelWidget>
+
+            <UniformSpacingPanelWidget Direction="Horizontal">
+              <LabelWidget Text="重置为默认值:" Font="{Fonts/Pericles18}" HorizontalAlignment="Far" VerticalAlignment="Center" Margin="20, 0" />
+              <BevelledButtonWidget Name="ResetDefaultsButton" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" Margin="20, 0" Text="Reset"/>
+            </UniformSpacingPanelWidget>
+
+          </StackPanelWidget>
+        </ScrollPanelWidget>
+      </CanvasWidget>
+
+      <CanvasWidget Size="0, 10"/>
+
+      <CanvasWidget Size="Infinity, 80" HorizontalAlignment="Center" VerticalAlignment="Center">
+        <LabelWidget Name="Description" HorizontalAlignment="Center" VerticalAlignment="Center" TextAnchor="HorizontalCenter, VerticalCenter" Font="{Fonts/Pericles18}" Color="128, 128, 128" WordWrap="true" />
+      </CanvasWidget>
+
+      <CanvasWidget Size="0, 10"/>
+
+    </StackPanelWidget>
+  </StackPanelWidget>
+
+</Screen>

@@ -1,0 +1,53 @@
+<Screen xmlns="runtime-namespace:Game">
+
+  <PanoramaWidget />
+
+  <StackPanelWidget Direction="Horizontal">
+
+    <CanvasWidget Style="{Widgets/TopBarContents}" >
+      <LabelWidget Name="TopBar.Label" Text="选择内容类型" />
+    </CanvasWidget>
+
+    <CanvasWidget Size="Infinity, 0" />
+    
+    <StackPanelWidget Direction="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+      <StackPanelWidget Direction="Horizontal">
+        <CanvasWidget Size="350, 90">
+          <LabelWidget Text="访问之前上传到您的私有存储空间之一的内容" Font="{Fonts/Pericles18}" Color="128, 128, 128" WordWrap="true" HorizontalAlignment="Far" VerticalAlignment="Center" TextAnchor="VerticalCenter,HorizontalCenter" />
+        </CanvasWidget>
+        <CanvasWidget Size="20, 0" />
+        <BevelledButtonWidget Name="External" Text="私有的" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" />
+      </StackPanelWidget>
+
+      <StackPanelWidget Direction="Horizontal">
+        <CanvasWidget Size="350, 90">
+          <LabelWidget Text="访问由其他社区成员创建并注册为公共访问的内容" Font="{Fonts/Pericles18}" Color="128, 128, 128" WordWrap="true" HorizontalAlignment="Far" VerticalAlignment="Center" TextAnchor="VerticalCenter,HorizontalCenter" />
+        </CanvasWidget>
+        <CanvasWidget Size="20, 0" />
+        <BevelledButtonWidget Name="Community" Text="社区" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" />
+      </StackPanelWidget>
+
+      <StackPanelWidget Direction="Horizontal">
+        <CanvasWidget Size="350, 90">
+          <LabelWidget Text="如果您知道，请直接从 Web 链接下载文件（最好使用复制/粘贴来输入链接）" Font="{Fonts/Pericles18}" Color="128, 128, 128" WordWrap="true" HorizontalAlignment="Far" VerticalAlignment="Center" TextAnchor="VerticalCenter, HorizontalCenter" />
+        </CanvasWidget>
+        <CanvasWidget Size="20, 0" />
+        <BevelledButtonWidget Name="Link" Text="来自链接" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" />
+      </StackPanelWidget>
+
+      <StackPanelWidget Direction="Horizontal">
+        <CanvasWidget Size="350, 90">
+          <LabelWidget Text="管理下载的内容" Font="{Fonts/Pericles18}" Color="128, 128, 128" WordWrap="true" HorizontalAlignment="Far" VerticalAlignment="Center" TextAnchor="VerticalCenter, HorizontalCenter" />
+        </CanvasWidget>
+        <CanvasWidget Size="20, 0" />
+        <BevelledButtonWidget Name="Manage" Text="管理" Style="{Styles/ButtonStyle_310x60}" VerticalAlignment="Center" />
+      </StackPanelWidget>
+
+    </StackPanelWidget>
+
+    <CanvasWidget Size="Infinity, 0" />
+  
+  </StackPanelWidget>
+
+</Screen>

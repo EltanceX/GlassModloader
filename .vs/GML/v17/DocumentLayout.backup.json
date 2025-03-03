@@ -1,0 +1,487 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\modpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:modpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\modaccessutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:modaccessutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\contentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:contentloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\modinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:modinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:loadingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\runtimecompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:runtimecompiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\source\\repos\\GlassFont\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\gmodsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:gmodsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\gutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:gutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|c:\\users\\eltancex\\source\\repos\\calltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35CE79B-CF5A-49CD-8459-AD1CD51D0F6D}|GlassModloader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\source\\repos\\ModTest\\EF3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\source\\repos\\ModTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\3376952094cd8129b4e7ecd3afbc03005831e55c29c16896f806b2ffd7cd2097\\SettingsPerformanceScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5b581bd3528252e93f6418778fe32b4a2065d47aa610f32bc31a408f4cfef01b\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\1b69141f49fcd4a34d7b5caf8a9b762b26f179342583b23197087d565bda0d90\\ContentManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\57b8ffdca1ca68281b6880bb3a5393c65f0471fbcc9a0afd23d0a7f752e66e24\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\f26ff7f5a5b1bda09d624c89f0850178fa2e38f46f18b61a68d579e3de15b389\\SubsystemCreatureSpawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\50ea6f8a3bcef056a0afe593cb11715d3726943b16a43c609f3f9b25cd60cac7\\SubsystemUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\4917e25780be88f5d3988b143f9ccb6af58377287459e2278f8cef053cf27043\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5f669dfa75964a303885634da69ed611ae95063a1c3d00f4e20ade27a86d0f57\\SafeFileHandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\0c614f69cf36332f4a6924201c752a674f34efe9c7599c17de60445e6ac9c928\\MainMenuScreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\196fbe92faa32fdc5d474041517b7bada396320133b539e99dd79c3a4453a7a5\\ContentCache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\13ee06d8aaf3e453ab164633f5e1b1d84fc56a3d65276fb2f6ec5e4266b36b6f\\Window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\sc\\2.4 Rebuild\\1.8-4 - ETerminal\\survivalcraft-api\\Survivalcraft\\Game\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:36:43.528Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUtil.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\GUtil.cs",
+              "RelativeDocumentMoniker": "GUtil.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\GUtil.cs",
+              "RelativeToolTip": "GUtil.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwIsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T03:29:49.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GModsManager.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\GModsManager.cs",
+              "RelativeDocumentMoniker": "GModsManager.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\GModsManager.cs",
+              "RelativeToolTip": "GModsManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:47:01.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\FileManager.cs",
+              "RelativeDocumentMoniker": "FileManager.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\FileManager.cs",
+              "RelativeToolTip": "FileManager.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAgwIQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:02:36.854Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RuntimeCompiler.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\RuntimeCompiler.cs",
+              "RelativeDocumentMoniker": "RuntimeCompiler.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\RuntimeCompiler.cs",
+              "RelativeToolTip": "RuntimeCompiler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:16:03.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadingForm.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\LoadingForm.cs",
+              "RelativeDocumentMoniker": "LoadingForm.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\LoadingForm.cs",
+              "RelativeToolTip": "LoadingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:14:23.366Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModInstance.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModInstance.cs",
+              "RelativeDocumentMoniker": "ModInstance.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModInstance.cs",
+              "RelativeToolTip": "ModInstance.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowHgAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:25:57.12Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModPatch.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModPatch.cs",
+              "RelativeDocumentMoniker": "ModPatch.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModPatch.cs",
+              "RelativeToolTip": "ModPatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:24:24.626Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModAccessUtil.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModAccessUtil.cs",
+              "RelativeDocumentMoniker": "ModAccessUtil.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ModAccessUtil.cs",
+              "RelativeToolTip": "ModAccessUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:06:15.96Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentLoader.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ContentLoader.cs",
+              "RelativeDocumentMoniker": "ContentLoader.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\CallTest\\ContentLoader.cs",
+              "RelativeToolTip": "ContentLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:59:45.94Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsPerformanceScreen.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\3376952094cd8129b4e7ecd3afbc03005831e55c29c16896f806b2ffd7cd2097\\SettingsPerformanceScreen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3376952094cd8129b4e7ecd3afbc03005831e55c29c16896f806b2ffd7cd2097\\SettingsPerformanceScreen.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\3376952094cd8129b4e7ecd3afbc03005831e55c29c16896f806b2ffd7cd2097\\SettingsPerformanceScreen.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3376952094cd8129b4e7ecd3afbc03005831e55c29c16896f806b2ffd7cd2097\\SettingsPerformanceScreen.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAawIEAAABfAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:34:08.339Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\57b8ffdca1ca68281b6880bb3a5393c65f0471fbcc9a0afd23d0a7f752e66e24\\GameManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57b8ffdca1ca68281b6880bb3a5393c65f0471fbcc9a0afd23d0a7f752e66e24\\GameManager.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\57b8ffdca1ca68281b6880bb3a5393c65f0471fbcc9a0afd23d0a7f752e66e24\\GameManager.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\57b8ffdca1ca68281b6880bb3a5393c65f0471fbcc9a0afd23d0a7f752e66e24\\GameManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwDAAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:45:38.322Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\GlassFont\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\GlassFont\\Class1.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\GlassFont\\Class1.cs",
+              "RelativeToolTip": "..\\GlassFont\\Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:12:24.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContentManager.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\1b69141f49fcd4a34d7b5caf8a9b762b26f179342583b23197087d565bda0d90\\ContentManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1b69141f49fcd4a34d7b5caf8a9b762b26f179342583b23197087d565bda0d90\\ContentManager.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\1b69141f49fcd4a34d7b5caf8a9b762b26f179342583b23197087d565bda0d90\\ContentManager.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1b69141f49fcd4a34d7b5caf8a9b762b26f179342583b23197087d565bda0d90\\ContentManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBEAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:41:17.862Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SubsystemUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\50ea6f8a3bcef056a0afe593cb11715d3726943b16a43c609f3f9b25cd60cac7\\SubsystemUpdate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ea6f8a3bcef056a0afe593cb11715d3726943b16a43c609f3f9b25cd60cac7\\SubsystemUpdate.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\50ea6f8a3bcef056a0afe593cb11715d3726943b16a43c609f3f9b25cd60cac7\\SubsystemUpdate.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\50ea6f8a3bcef056a0afe593cb11715d3726943b16a43c609f3f9b25cd60cac7\\SubsystemUpdate.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAE0AAAAAAAAAAIAwwFcAAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:03:52.204Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SubsystemCreatureSpawn.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\f26ff7f5a5b1bda09d624c89f0850178fa2e38f46f18b61a68d579e3de15b389\\SubsystemCreatureSpawn.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f26ff7f5a5b1bda09d624c89f0850178fa2e38f46f18b61a68d579e3de15b389\\SubsystemCreatureSpawn.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\f26ff7f5a5b1bda09d624c89f0850178fa2e38f46f18b61a68d579e3de15b389\\SubsystemCreatureSpawn.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f26ff7f5a5b1bda09d624c89f0850178fa2e38f46f18b61a68d579e3de15b389\\SubsystemCreatureSpawn.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAPsDAAAAAAAAAIAwwAsEAAAFAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:03:39.393Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\4917e25780be88f5d3988b143f9ccb6af58377287459e2278f8cef053cf27043\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4917e25780be88f5d3988b143f9ccb6af58377287459e2278f8cef053cf27043\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\4917e25780be88f5d3988b143f9ccb6af58377287459e2278f8cef053cf27043\\DatabaseManager.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4917e25780be88f5d3988b143f9ccb6af58377287459e2278f8cef053cf27043\\DatabaseManager.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAEkAAAAAAAAAAIAwwFMAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:39:57.844Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5b581bd3528252e93f6418778fe32b4a2065d47aa610f32bc31a408f4cfef01b\\Project.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5b581bd3528252e93f6418778fe32b4a2065d47aa610f32bc31a408f4cfef01b\\Project.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5b581bd3528252e93f6418778fe32b4a2065d47aa610f32bc31a408f4cfef01b\\Project.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5b581bd3528252e93f6418778fe32b4a2065d47aa610f32bc31a408f4cfef01b\\Project.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAIAwwDQAAAArAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:39:47.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\ModTest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ModTest\\Program.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\ModTest\\Program.cs",
+              "RelativeToolTip": "..\\ModTest\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T02:51:01.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EF3.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\source\\repos\\ModTest\\EF3.cs",
+              "RelativeDocumentMoniker": "..\\ModTest\\EF3.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\source\\repos\\ModTest\\EF3.cs",
+              "RelativeToolTip": "..\\ModTest\\EF3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:03:53.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainMenuScreen.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\0c614f69cf36332f4a6924201c752a674f34efe9c7599c17de60445e6ac9c928\\MainMenuScreen.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c614f69cf36332f4a6924201c752a674f34efe9c7599c17de60445e6ac9c928\\MainMenuScreen.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\0c614f69cf36332f4a6924201c752a674f34efe9c7599c17de60445e6ac9c928\\MainMenuScreen.cs [\u53EA\u8BFB]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0c614f69cf36332f4a6924201c752a674f34efe9c7599c17de60445e6ac9c928\\MainMenuScreen.cs [\u53EA\u8BFB]",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAawCoAAAA/AAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T05:48:37.703Z",
+              "EditorCaption": " [\u53EA\u8BFB]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SafeFileHandle.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5f669dfa75964a303885634da69ed611ae95063a1c3d00f4e20ade27a86d0f57\\SafeFileHandle.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5f669dfa75964a303885634da69ed611ae95063a1c3d00f4e20ade27a86d0f57\\SafeFileHandle.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\5f669dfa75964a303885634da69ed611ae95063a1c3d00f4e20ade27a86d0f57\\SafeFileHandle.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\5f669dfa75964a303885634da69ed611ae95063a1c3d00f4e20ade27a86d0f57\\SafeFileHandle.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAASwB8BAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T09:24:44.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ContentCache.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\196fbe92faa32fdc5d474041517b7bada396320133b539e99dd79c3a4453a7a5\\ContentCache.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\196fbe92faa32fdc5d474041517b7bada396320133b539e99dd79c3a4453a7a5\\ContentCache.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\196fbe92faa32fdc5d474041517b7bada396320133b539e99dd79c3a4453a7a5\\ContentCache.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\196fbe92faa32fdc5d474041517b7bada396320133b539e99dd79c3a4453a7a5\\ContentCache.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAqwHsAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:19:48.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\13ee06d8aaf3e453ab164633f5e1b1d84fc56a3d65276fb2f6ec5e4266b36b6f\\Window.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\13ee06d8aaf3e453ab164633f5e1b1d84fc56a3d65276fb2f6ec5e4266b36b6f\\Window.cs",
+              "ToolTip": "C:\\Users\\EltanceX\\AppData\\Local\\Temp\\.vsdbgsrc\\13ee06d8aaf3e453ab164633f5e1b1d84fc56a3d65276fb2f6ec5e4266b36b6f\\Window.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\13ee06d8aaf3e453ab164633f5e1b1d84fc56a3d65276fb2f6ec5e4266b36b6f\\Window.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAvwDABAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:03:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\sc\\2.4 Rebuild\\1.8-4 - ETerminal\\survivalcraft-api\\Survivalcraft\\Game\\Program.cs",
+              "ToolTip": "E:\\sc\\2.4 Rebuild\\1.8-4 - ETerminal\\survivalcraft-api\\Survivalcraft\\Game\\Program.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAlwOMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T10:53:51.629Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 808,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

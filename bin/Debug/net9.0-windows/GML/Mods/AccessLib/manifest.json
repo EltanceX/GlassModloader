@@ -1,0 +1,23 @@
+{
+    "ModVersion": [0, 0],
+    "Enabled": true,
+    "Author": "Glass",
+	"Priority": -1, //前置模组请求更高优先级(该值越低加载优先级越高)
+
+    "RuntimeCompilation": { //运行时编译，编译所有.cs文件
+
+        "enabled": false, //启用运行时编译将忽略Mod文件夹中的所有.dll文件
+
+        //${ROOT} GlassModloader.exe所在目录的绝对路径,如 D:\GML
+        //${GAMEVERSION} 当前游戏进程的版本文件夹(versions下),如 OfficialEdition2.4
+        "dependencies": [ //本地依赖
+            //"${ROOT}\\versions\\${GAMEVERSION}\\mydll.dll"
+            //"C:\\mydirectory\\dep.dll"
+            "${ROOT}\\versions\\${GAMEVERSION}\\Engine.dll"
+        ],
+        "dependencies_shared":[ //共享依赖
+            "System.Runtime.dll",
+            "System.Console.dll"
+        ]
+    }
+}
